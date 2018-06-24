@@ -1,0 +1,21 @@
+git init
+
+git clone url
+
+Before Commit
+git pull
+git commit -m "Useful message"
+git push
+
+To add files for Git
+
+git add -A       # Add all files
+git add filename # add a specific file
+
+See what's changed
+git status
+
+Remove files from git
+git reset filename
+
+
